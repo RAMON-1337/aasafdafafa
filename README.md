@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>div e css</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <link rel="stylesheet" href="1.css" />
   </head>
+
   <body>
     <h1>
       <form>
         Nome: <input type="text" name="nome" required /><br />
         Idade: <input type="date" name="idade" required /><br />
-        cpf:
+        CPF:
         <input
           type="text"
           id="cpf"
